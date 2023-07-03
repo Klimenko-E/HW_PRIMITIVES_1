@@ -5,10 +5,10 @@ public class Main {
         int ticketPrice = 17_635;
         int milePrice = 20;
 
-        int mile = ticketPrice/milePrice;
+        int mile = ticketPrice / milePrice;
 
         System.out.println(mile);
 
 
-        }
     }
+}
